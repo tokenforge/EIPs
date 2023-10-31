@@ -6,7 +6,7 @@ discussions-to: <URL>
 status: Draft
 type: Standards Track
 category: ERC
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+created: 2023-09-05
 ---
 
 ## Abstract
